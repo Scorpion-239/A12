@@ -264,3 +264,11 @@ footer p {
 		display: block;
 	}
 }
+
+.cookie {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 20px;
+	font-size: 12px;
+}
